@@ -14,7 +14,7 @@ A simple project to practice CSS. This project is a simple webpage with a cat pa
 
 ## Live Demo
 
-[Cat Painting](https://eddking-qs.github.io/CSS-Mini_Projects-Cat_Painting/)
+[Cat Painting](https://quintin-dev.github.io/CSS-Mini_Projects-Cat_Painting/)
 
 ## Disclaimer
 
